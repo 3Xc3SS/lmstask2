@@ -24,7 +24,8 @@ But since when is it so.. stretched? Scan the QR*-code to get the flag!
 
 
 Пользователь идёт искать информацию по "длинному qr коду", можно на этом шаге при необходимости предложить подсказку "long qr code", данный запрос в кавычках как в google, так и на youtube поможет найти видео на тему таких вытянутых QR (https://www.youtube.com/watch?v=J8S-NJ1GTn4)
-![..](files/step2.png,files/step2-1.png)
+![..](files/step2.png)
+![..](files/step2-1.png)
 
 
 Пользователь просмотрев видео поймёт что это и как этим пользоваться, а также как отсканировать их
@@ -32,4 +33,5 @@ But since when is it so.. stretched? Scan the QR*-code to get the flag!
 
 
 Пользователь скачает приложение QRQR DENSO WAVE (https://www.denso-wave.com/en/system/qr/product/reader.html) Только оно способно отсканировать rMQR
-![..](files/step4.png,files/step4-1.png)
+![..](files/step4.png)
+![..](files/step4-1.png)
