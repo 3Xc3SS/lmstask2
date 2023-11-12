@@ -20,7 +20,7 @@ But since when is it so.. stretched? Scan the QR*-code to get the flag!
 
 # Решение
 Пользователь пробует отсканировать rMQR, этого сделать не получается
-![..](files/step1.png)
+![..](files/step1.PNG)
 
 
 Пользователь идёт искать информацию по "длинному qr коду", можно на этом шаге при необходимости предложить подсказку "long qr code", данный запрос в кавычках как в google, так и на youtube поможет найти видео на тему таких вытянутых QR (https://www.youtube.com/watch?v=J8S-NJ1GTn4)
