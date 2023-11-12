@@ -33,5 +33,5 @@ But since when is it so.. stretched? Scan the QR*-code to get the flag!
 
 
 Пользователь скачает приложение QRQR DENSO WAVE (https://www.denso-wave.com/en/system/qr/product/reader.html) Только оно способно отсканировать rMQR
-![..](files/step4.png)
-![..](files/step4-1.png)
+![..](files/step4.PNG)
+![..](files/step4-1.PNG)
