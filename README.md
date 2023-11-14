@@ -4,7 +4,7 @@
 
 **Название EN:** Can you scan it?
 
-**Сложность:** Easy/Medium/Hard
+**Сложность:** Easy
 
 **Ответ:** {Now I know that rMQR exists! And this is my final answer.}
 
